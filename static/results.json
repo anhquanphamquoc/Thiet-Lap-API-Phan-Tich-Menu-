@@ -1,0 +1,53 @@
+﻿
+[
+    {
+        "food_name_en": "PINEAPPLE JUICE",
+        "food_name_vi": "NƯỚC ÉP THƠM",
+        "food_price": "25000"
+    },
+    {
+        "food_name_en": "WATERMELON JUICE",
+        "food_name_vi": "NƯỚC ÉP DƯA HẤU",
+        "food_price": "25000"
+    },
+    {
+        "food_name_en": "GUAVA JUICE",
+        "food_name_vi": "NƯỚC ÉP ỔI",
+        "food_price": "25000"
+    },
+    {
+        "food_name_en": "CARROT JUICE",
+        "food_name_vi": "NƯỚC ÉP CÀ RỐT",
+        "food_price": "25000"
+    },
+    {
+        "food_name_en": "MILK CARROT JUICE",
+        "food_name_vi": "NƯỚC ÉP CÀ RỐT SỮA",
+        "food_price": "30000"
+    },
+    {
+        "food_name_en": "TOMATO JUICE",
+        "food_name_vi": "NƯỚC ÉP CÀ CHUA",
+        "food_price": "25000"
+    },
+    {
+        "food_name_en": "ORANGE JUICE",
+        "food_name_vi": "NƯỚC CAM TƯƠI",
+        "food_price": "25000"
+    },
+    {
+        "food_name_en": "MILK ORANGE JUICE",
+        "food_name_vi": "NƯỚC CAM SỮA",
+        "food_price": "30000"
+    },
+    {
+        "food_name_en": "FRUIT YAUOTR",
+        "food_name_vi": "YAUOTR TRÁI CÂY",
+        "food_price": "30000"
+    },
+    {
+        "food_name_en": "SUGAR ICE YAUOTR",
+        "food_name_vi": "YAUOTR ĐÁ ĐƯỜNG",
+        "food_price": "15000"
+    }
+]
