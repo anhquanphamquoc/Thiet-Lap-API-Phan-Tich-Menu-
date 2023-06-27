@@ -1,5 +1,7 @@
 Đây là sản phẩm nghiên cứu khoa học với tên đề tài là "THIẾT LẬP API CHO VIỆC PHÂN TÍCH MENU MÓN ĂN PHỤC VỤ KHÁCH DU LỊCH"
+
 Đây là một đề tài thiết lập, tinh chỉnh và tạo giao diện trên một API có sẵn để phân tích menu món ăn
+
 Người thực hiện: Phạm Quốc Anh Quân
 
 Dưới đây là thông tin và bản quyền của API được sử dụng để thực hiện đề tài
