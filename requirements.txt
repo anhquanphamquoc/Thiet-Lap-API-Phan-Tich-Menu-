@@ -9,3 +9,4 @@ pandas
 flask
 unidecode
 symspellpy
+requests
